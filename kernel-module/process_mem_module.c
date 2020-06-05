@@ -706,7 +706,6 @@ static int __init process_mem_init(void)
 	if (rc)
 		goto failure;
     
-	total_communications = 0;
     pr_info("registered process_mem.\n");
     return 0;
 
