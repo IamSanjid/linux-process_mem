@@ -1,0 +1,23 @@
+5639fe350000-5639fe351000 r--p 00000000 08:08 797408                     /home/purple/EXC/test
+5639fe351000-5639fe352000 r-xp 00001000 08:08 797408                     /home/purple/EXC/test
+5639fe352000-5639fe353000 r--p 00002000 08:08 797408                     /home/purple/EXC/test
+5639fe353000-5639fe354000 r--p 00002000 08:08 797408                     /home/purple/EXC/test
+5639fe354000-5639fe355000 rw-p 00003000 08:08 797408                     /home/purple/EXC/test
+5639feb50000-5639feb71000 rw-p 00000000 00:00 0                          [heap]
+7f4fbe966000-7f4fbe98b000 r--p 00000000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbe98b000-7f4fbeb03000 r-xp 00025000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbeb03000-7f4fbeb4d000 r--p 0019d000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbeb4d000-7f4fbeb4e000 ---p 001e7000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbeb4e000-7f4fbeb51000 r--p 001e7000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbeb51000-7f4fbeb54000 rw-p 001ea000 08:06 656965                     /lib/x86_64-linux-gnu/libc-2.31.so
+7f4fbeb54000-7f4fbeb5a000 rw-p 00000000 00:00 0 
+7f4fbeb74000-7f4fbeb75000 r--p 00000000 08:06 656955                     /lib/x86_64-linux-gnu/ld-2.31.so
+7f4fbeb75000-7f4fbeb98000 r-xp 00001000 08:06 656955                     /lib/x86_64-linux-gnu/ld-2.31.so
+7f4fbeb98000-7f4fbeba0000 r--p 00024000 08:06 656955                     /lib/x86_64-linux-gnu/ld-2.31.so
+7f4fbeba1000-7f4fbeba2000 r--p 0002c000 08:06 656955                     /lib/x86_64-linux-gnu/ld-2.31.so
+7f4fbeba2000-7f4fbeba3000 rw-p 0002d000 08:06 656955                     /lib/x86_64-linux-gnu/ld-2.31.so
+7f4fbeba3000-7f4fbeba4000 rw-p 00000000 00:00 0 
+7fff66996000-7fff669b7000 rw-p 00000000 00:00 0                          [stack]
+7fff669e6000-7fff669e9000 r--p 00000000 00:00 0                          [vvar]
+7fff669e9000-7fff669ea000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
