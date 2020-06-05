@@ -18,3 +18,5 @@ Simple library to Read and Write Memory of a Linux Process through custom Kernel
 
 # Test?
 * `test` program is generated, you can search a specified integer (the first found address is returned) of a specified PID.
+
+* BTW the module won't going to check if the process which is trying to communicate got root privilege, if you pass `check_root=0` this as an argument while loading the module or using `insmod`.
