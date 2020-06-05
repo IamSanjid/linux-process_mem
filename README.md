@@ -1,5 +1,6 @@
 # linux-process_mem
 Simple library to Read and Write Memory of a Linux Process through custom Kernel Module.
+The module uses generic-netlink socket library to communicate with the user process.
 
 # Things the module can do
 * Read/Write specified size of bytes from/to a process-space memory address.
